@@ -25,6 +25,6 @@ class Test_01_user(unittest.TestCase):
             elif key == "name":
                 # name1 = value
                 self.assertEqual(value,"test")
-if __name__ == '__main__':
-    unittest.main()         
+# if __name__ == '__main__':
+#     unittest.main()         
     
